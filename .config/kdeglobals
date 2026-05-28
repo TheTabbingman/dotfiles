@@ -105,10 +105,11 @@ ForegroundPositive=152,151,26
 ForegroundVisited=235,219,178
 
 [General]
-ColorSchemeHash=9f63c7711a13123582e720791ea0f8c0172977d2
+ColorSchemeHash=d1a02f86a8869fce0380a8657e42411a5e7b0db6
 TerminalApplication=ghostty
 
 [KDE]
+LookAndFeelPackage=stylix
 ShowDeleteCommand=false
 contrast=7
 frameContrast=0.2
