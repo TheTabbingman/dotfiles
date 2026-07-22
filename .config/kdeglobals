@@ -116,14 +116,14 @@ frameContrast=0.2
 
 [KFileDialog Settings]
 Allow Expansion=false
-Automatically select filename extension=true
+Automatically select filename extension=false
 Breadcrumb Navigation=false
 Decoration position=2
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=false
+Show hidden files=true
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
@@ -134,6 +134,9 @@ View Style=Detail
 [PreviewSettings]
 EnableRemoteFolderThumbnail=true
 MaximumRemoteSize=10485758951424
+
+[Shortcuts]
+AddBookmark=
 
 [WM]
 activeBackground=40,40,40
